@@ -37,7 +37,7 @@ body {
 /* ============== HEADER STYLES ============== */
 
 .main-header {
-    border-bottom: 1px solid #e7e9fc
+    border-bottom: 1px solid #e7e9fc;
 }
 
 .main-nav {
@@ -270,7 +270,7 @@ body {
     gap: 48px 24px;
 }
 
-.portfolio-ite {
+.portfolio-item {
     width: calc((100% - 48px) / 3);
 }
 
